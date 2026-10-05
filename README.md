@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Software-Testing-Management?style=flat-square" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Software-Testing-Management?style=flat-square" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Software-Testing-Management?style=flat-square" alt="License" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -62,24 +62,24 @@ Below is a detailed breakdown of top commercial SaaS software testing management
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top open-source software testing management tools, ranked by **GitHub Stars (Descending)** ⭐️.
+Explore the top open-source software testing management tools, ranked by **GitHub_Stars (Descending)** ⭐️.
 
-| Project & Repository 📦 | GitHub Stars ⭐️ | Description & Highlights ⚡ |
+| Project & Repository 📦 | GitHub_Stars ⭐️ | Description & Highlights ⚡ |
 | :--- | :--- | :--- |
-| **[TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)** | [![GitHub stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code?style=social&color=white)](https://github.com/TestLinkOpenSourceTRMS/testlink-code/stargazers) | **The veteran open-source test manager**, web-based requirements tracking, test suites, builds, and Jira/Bugzilla integrations. |
-| **[Kiwi TCMS](https://github.com/kiwitcms/Kiwi)** | [![GitHub stars](https://img.shields.io/github/stars/kiwitcms/Kiwi?style=social&color=white)](https://github.com/kiwitcms/Kiwi/stargazers) | **The leading open-source TCMS**, IEEE 829 compatible, 2M+ Docker downloads, Python/Django framework, bug tracker integrations, & rich REST API. |
-| **[UnitTCMS](https://github.com/kimatata/unittcms)** | [![GitHub stars](https://img.shields.io/github/stars/kimatata/unittcms?style=social&color=white)](https://github.com/kimatata/unittcms/stargazers) | **Modern self-hosted test case management system** with clean UI, role-based access control, folder hierarchies, and Docker deployment. |
-| **[QualityFolio](https://github.com/opsfolio/qualityfolio)** | [![GitHub stars](https://img.shields.io/github/stars/opsfolio/qualityfolio?style=social&color=white)](https://github.com/opsfolio/qualityfolio/stargazers) | **Agile test management and quality tracking software** built for developer-centric teams requiring lightweight test organization. |
-| **[TestPlanIt](https://github.com/TestPlanIt/testplanit)** | [![GitHub stars](https://img.shields.io/github/stars/TestPlanIt/testplanit?style=social&color=white)](https://github.com/TestPlanIt/testplanit/stargazers) | **Open-source test planning platform** for organizing manual test cases, creating execution runs, and generating team metrics. |
-| **[Sherlock](https://github.com/leoGalani/sherlock)** | [![GitHub stars](https://img.shields.io/github/stars/leoGalani/sherlock?style=social&color=white)](https://github.com/leoGalani/sherlock/stargazers) | **Lightweight open-source test management tool** focusing on simplicity and quick manual test execution tracking. |
-| **[SuiTest](https://github.com/suiflex/suitest)** | [![GitHub stars](https://img.shields.io/github/stars/suiflex/suitest?style=social&color=white)](https://github.com/suiflex/suitest/stargazers) | **Flexible test suite & test case management engine** providing structured test execution logging and web interface. |
-| **[Testomatio Open App](https://github.com/testomatio/app)** | [![GitHub stars](https://img.shields.io/github/stars/testomatio/app?style=social&color=white)](https://github.com/testomatio/app/stargazers) | **Modern test management platform core** designed to synchronize automated tests with manual test case management. |
-| **[OpenTMI](https://github.com/OpenTMI/opentmi)** | [![GitHub stars](https://img.shields.io/github/stars/OpenTMI/opentmi?style=social&color=white)](https://github.com/OpenTMI/opentmi/stargazers) | **Open Test Management Infrastructure**, telemetry-focused test result storage engine with REST API and web dashboard. |
-| **[Tesbo Test Manager](https://github.com/QAbleHQ/Tesbo-Test-Manager)** | [![GitHub stars](https://img.shields.io/github/stars/QAbleHQ/Tesbo-Test-Manager?style=social&color=white)](https://github.com/QAbleHQ/Tesbo-Test-Manager/stargazers) | **Web-based open-source test manager** by QAble for managing test suites, test runs, and test failure analysis. |
-| **[QA Studio](https://github.com/QAStudio-Dev/studio)** | [![GitHub stars](https://img.shields.io/github/stars/QAStudio-Dev/studio?style=social&color=white)](https://github.com/QAStudio-Dev/studio/stargazers) | **Fast, modern SvelteKit 5 test management tool** with PostgreSQL, rich media attachment support, and full REST API. |
-| **[Gwirian](https://github.com/TheAcmada/gwirian)** | [![GitHub stars](https://img.shields.io/github/stars/TheAcmada/gwirian?style=social&color=white)](https://github.com/TheAcmada/gwirian/stargazers) | **BDD-focused test scenario management platform** built on Rails 8, Tailwind, htmx, with AI assistant MCP integration. |
-| **[QuAck / Dokimion](https://github.com/sillstest/dokimion)** | [![GitHub stars](https://img.shields.io/github/stars/sillstest/dokimion?style=social&color=white)](https://github.com/sillstest/dokimion/stargazers) | **Dynamic tree test management system** where test case hierarchies build dynamically from custom test attributes. |
-| **[BASIL](https://github.com/kartben/BASIL)** | [![GitHub stars](https://img.shields.io/github/stars/kartben/BASIL?style=social&color=white)](https://github.com/kartben/BASIL/stargazers) | **Software quality management tool** providing strict specification-to-code traceability and SPDX SBOM export. |
+| **[TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)** | [![GitHub_Stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code?style=social&color=white)](https://github.com/TestLinkOpenSourceTRMS/testlink-code/stargazers) | **The veteran open-source test manager**, web-based requirements tracking, test suites, builds, and Jira/Bugzilla integrations. |
+| **[Kiwi TCMS](https://github.com/kiwitcms/Kiwi)** | [![GitHub_Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi?style=social&color=white)](https://github.com/kiwitcms/Kiwi/stargazers) | **The leading open-source TCMS**, IEEE 829 compatible, 2M+ Docker downloads, Python/Django framework, bug tracker integrations, & rich REST API. |
+| **[UnitTCMS](https://github.com/kimatata/unittcms)** | [![GitHub_Stars](https://img.shields.io/github/stars/kimatata/unittcms?style=social&color=white)](https://github.com/kimatata/unittcms/stargazers) | **Modern self-hosted test case management system** with clean UI, role-based access control, folder hierarchies, and Docker deployment. |
+| **[QualityFolio](https://github.com/opsfolio/qualityfolio)** | [![GitHub_Stars](https://img.shields.io/github/stars/opsfolio/qualityfolio?style=social&color=white)](https://github.com/opsfolio/qualityfolio/stargazers) | **Agile test management and quality tracking software** built for developer-centric teams requiring lightweight test organization. |
+| **[TestPlanIt](https://github.com/TestPlanIt/testplanit)** | [![GitHub_Stars](https://img.shields.io/github/stars/TestPlanIt/testplanit?style=social&color=white)](https://github.com/TestPlanIt/testplanit/stargazers) | **Open-source test planning platform** for organizing manual test cases, creating execution runs, and generating team metrics. |
+| **[Sherlock](https://github.com/leoGalani/sherlock)** | [![GitHub_Stars](https://img.shields.io/github/stars/leoGalani/sherlock?style=social&color=white)](https://github.com/leoGalani/sherlock/stargazers) | **Lightweight open-source test management tool** focusing on simplicity and quick manual test execution tracking. |
+| **[SuiTest](https://github.com/suiflex/suitest)** | [![GitHub_Stars](https://img.shields.io/github/stars/suiflex/suitest?style=social&color=white)](https://github.com/suiflex/suitest/stargazers) | **Flexible test suite & test case management engine** providing structured test execution logging and web interface. |
+| **[Testomatio Open App](https://github.com/testomatio/app)** | [![GitHub_Stars](https://img.shields.io/github/stars/testomatio/app?style=social&color=white)](https://github.com/testomatio/app/stargazers) | **Modern test management platform core** designed to synchronize automated tests with manual test case management. |
+| **[OpenTMI](https://github.com/OpenTMI/opentmi)** | [![GitHub_Stars](https://img.shields.io/github/stars/OpenTMI/opentmi?style=social&color=white)](https://github.com/OpenTMI/opentmi/stargazers) | **Open Test Management Infrastructure**, telemetry-focused test result storage engine with REST API and web dashboard. |
+| **[Tesbo Test Manager](https://github.com/QAbleHQ/Tesbo-Test-Manager)** | [![GitHub_Stars](https://img.shields.io/github/stars/QAbleHQ/Tesbo-Test-Manager?style=social&color=white)](https://github.com/QAbleHQ/Tesbo-Test-Manager/stargazers) | **Web-based open-source test manager** by QAble for managing test suites, test runs, and test failure analysis. |
+| **[QA Studio](https://github.com/QAStudio-Dev/studio)** | [![GitHub_Stars](https://img.shields.io/github/stars/QAStudio-Dev/studio?style=social&color=white)](https://github.com/QAStudio-Dev/studio/stargazers) | **Fast, modern SvelteKit 5 test management tool** with PostgreSQL, rich media attachment support, and full REST API. |
+| **[Gwirian](https://github.com/TheAcmada/gwirian)** | [![GitHub_Stars](https://img.shields.io/github/stars/TheAcmada/gwirian?style=social&color=white)](https://github.com/TheAcmada/gwirian/stargazers) | **BDD-focused test scenario management platform** built on Rails 8, Tailwind, htmx, with AI assistant MCP integration. |
+| **[QuAck / Dokimion](https://github.com/sillstest/dokimion)** | [![GitHub_Stars](https://img.shields.io/github/stars/sillstest/dokimion?style=social&color=white)](https://github.com/sillstest/dokimion/stargazers) | **Dynamic tree test management system** where test case hierarchies build dynamically from custom test attributes. |
+| **[BASIL](https://github.com/kartben/BASIL)** | [![GitHub_Stars](https://img.shields.io/github/stars/kartben/BASIL?style=social&color=white)](https://github.com/kartben/BASIL/stargazers) | **Software quality management tool** providing strict specification-to-code traceability and SPDX SBOM export. |
 
 ---
 
@@ -89,7 +89,7 @@ Contributions are warmly welcomed! Help keep this software testing management di
 
 1. **Fork** the repository 🍴
 2. **Add or update** entries in `README.md` following the table structures above.
-3. Make sure to include factual pricing, free tier limits, or repository star counts.
+3. Make sure to include factual pricing, free tier limits, or repository Stars_Counts.
 4. **Submit a Pull Request** with a brief summary of changes.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more awesome developer lists! 🌟
